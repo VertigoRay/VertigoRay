@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Ray 👋
 
-<!--
-**VertigoRay/VertigoRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=VertigoRay.VertigoRay)
 
-Here are some ideas to get you started:
+![VertigoRay on Stack Exchange]https://stackexchange.com/users/flair/615422.png
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[I sometimes blog](https://blog.vertigion.com/author/vertigoray).
+
+## CAS
+
+I work for [CAS](https://cas.unt.edu) team at [UNT](https://unt.edu). [We give back whenever we can](https://github.com/UNT-CAS).
+
+## Tech preferences
+
+| |                       |                                                           |
+|-|-----------------------|-----------------------------------------------------------|
+|🖥| **Operating System** | Windows 10 |
+|📺| **Terminal** | [Windows Terminal](https://aka.ms/terminal) |
+|🐚| **Shell** | [PowerShell](https://github.com/PowerShell) |
+|📝| **Editor** | [Visual Studio Code](https://github.com/Microsoft/vscode) |
