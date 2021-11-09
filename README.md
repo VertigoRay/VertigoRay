@@ -6,7 +6,7 @@
 
 ## Work
 
-I work for ESE in UTS at [UTSA](https://utsa.edu).
+I work for ESE in [UTS](https://www.utsa.edu/techsolutions) at [UTSA](https://utsa.edu).
 
 I used to work for [CAS](https://cas.unt.edu) at [UNT](https://unt.edu). [We gave back whenever we could](https://github.com/UNT-CAS).
 
