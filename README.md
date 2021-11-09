@@ -4,9 +4,11 @@
 
 [I sometimes blog](https://blog.vertigion.com/author/vertigoray).
 
-## CAS
+## Work
 
-I work for [CAS](https://cas.unt.edu) at [UNT](https://unt.edu). [We give back whenever we can](https://github.com/UNT-CAS).
+I work for ESE in UTS at [UTSA](https://utsa.edu).
+
+I used to work for [CAS](https://cas.unt.edu) at [UNT](https://unt.edu). [We gave back whenever we could](https://github.com/UNT-CAS).
 
 ## Tech preferences
 
